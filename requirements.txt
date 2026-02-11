@@ -1,0 +1,14 @@
+duckdb
+pandas
+matplotlib
+seaborn
+ipython
+nbformat>=4.2
+geoviews
+holoviews
+datashader
+cartopy
+colorcet
+jupyter_bokeh
+plotly
+statsmodels

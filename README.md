@@ -44,7 +44,7 @@ Using what was learned and the app infraestructure, further explore and model co
 
 ## **Updates**
 
- - (working now): draft reviewing (README, 00 preprocess.ipynb, 01 eda.ipynb, 02 forecasting.ipynb)
- - 08/02/202: github repository created and initial commit with drafts
- - 30/01/2025: planning out and first drafts 
+ - **(working now)**: draft reviewing (README, 00 preprocess.ipynb, 01 eda.ipynb, 02 forecasting.ipynb)
+ - **08/02/202**: github repository created and initial commit with drafts
+ - **30/01/2025**: planning out and first drafts 
 
